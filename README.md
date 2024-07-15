@@ -28,6 +28,30 @@ I obtained a dataset from Kaggle. The link for the dataset is [here](https://www
 
 ## Exploratory Data Analysis
 I performed exploratory data analysis on this dataset and generated various graphs in order to access the variables that need to be processed further. 
+## Exploratory Data Analysis
+
+During the exploratory data analysis (EDA) phase, several graphs were created to visualize the data and understand the relationships between different variables. The following graphs were included in the EDA:
+
+### Graphs
+
+- **Distribution of Person Age:** This histogram shows the distribution of ages among the persons in the dataset. ![View Graph](../Credit_model_risk/person_age_distribution.png)
+
+- **Loan Grade Distribution:** This bar plot illustrates the distribution of loan grades assigned to the loans. ![View Graph](../Credit_model_risk/loan_grade_distribution.png)
+
+- **Loan Status Distribution:** This bar plot depicts the distribution of loan statuses, indicating how many loans were approved versus not approved. ![View Graph](../Credit_model_risk/loan_status_distribution.png)
+
+- **Mean Loan Amount by Loan Status:** This bar plot displays the average loan amount for approved and not approved loans. ![View Graph](../Credit_model_risk/loan_amount_distribution_bar.png)
+
+- **Home Ownership Distribution:** This pie chart shows the distribution of home ownership statuses among the persons in the dataset. ![View Graph](../Credit_model_risk/home_ownership_distribution.png)
+
+- **Correlation Heatmap:** This heatmap visualizes the correlation between different variables in the dataset, helping to identify patterns and relationships. ![View Graph](../Credit_model_risk/heatmap.png)
+
+- **Home Ownership Distribution after Factorization:** This pie chart shows the distribution of home ownership statuses after the factorization process. ![View Graph](../Credit_model_risk/home_ownership_factor.png)
+
+- **Distribution of Person Age after Cleaning:** This histogram shows the distribution of ages after data cleaning. ![View Graph](../Credit_model_risk/person_age_distribution_aft_clean.png)
+
+- **Default History Distribution:** This pie chart illustrates the distribution of default history among the persons in the dataset. ![View Graph](../Credit_model_risk/default_history_pie_chart.png)
+
 
 ## Data Cleaning 
 - Removed data for individuals older than 80 years due to the improbability of ages above 80.
