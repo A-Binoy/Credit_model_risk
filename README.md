@@ -28,8 +28,6 @@ I obtained a dataset from Kaggle. The link for the dataset is [here](https://www
 
 ## Exploratory Data Analysis
 I performed exploratory data analysis on this dataset and generated various graphs in order to access the variables that need to be processed further. 
-## Exploratory Data Analysis
-
 During the exploratory data analysis (EDA) phase, several graphs were created to visualize the data and understand the relationships between different variables. The following graphs were included in the EDA:
 
 ### Graphs
